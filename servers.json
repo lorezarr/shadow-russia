@@ -1,9 +1,15 @@
 [
     {
-      "color": "FF0000",
-      "dopname": "(X2 АКЦИИ)",
-      "maxonline": 1000,
-      "name": "JUST BONUS",
-      "online": 176
-    }
+        "online": "128",
+        "maxonline": "1000",
+        "color": "FF0000",
+        "x2": "true",
+        "key": "",
+        "name": "RED",
+        "firstname": "SHADOW",
+        "secondname": "",
+        "url": "red.blackrussia.online",
+        "ip": "188.127.241.8",
+        "port": "1502"
+}
 ]
